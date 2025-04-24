@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+
+
+@theme {
+  /* extending the default theme with custom variables */
+
+  --color-bg: #EBE6DD;
+  --color-orange: #FF682C;
+  --color-brown: #401D18;
+  --color-brown-light: #863B32;
+  --color-text: #401D19;
+  --color-text-light: #EBE6DD;
+  --color-pink: #EDD0C6;
+  --font-title: 'Poppins', sans-serif;
+  --font-text: "Inter", sans-serif;
+
+
+}
+
